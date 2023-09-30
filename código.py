@@ -60,6 +60,7 @@ def identificando_letras(lista_de_animais):
   
   if chances == 0:
     print("Você perdeu, que triste ;(")
+    print(f"A palavra era: {palavra}")
 
 
 lista_de_animais = ["leao", "baleia", "golfinho", "hipopotamo", "arara", "cachorro", "gato", "lagartixa", "macaco", "abelha", "lesma", "veado", "tartaruga", "aranha", "anta", "rinoceronte", "cabra", "cacatua", "escorpiao", "falcao", "flamingo", "naja", "orangotango", "ornitorrinco", "borboleta", "coruja"]
